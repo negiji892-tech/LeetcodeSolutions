@@ -27,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/negiji892-tech/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/negiji892-tech/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
 ## Prefix Sum
 |  |
@@ -36,4 +37,12 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/negiji892-tech/LeetcodeSolutions/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/negiji892-tech/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/negiji892-tech/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
